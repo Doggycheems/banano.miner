@@ -28,11 +28,6 @@
       "quantity": 1,
       "size": "standard-1x"
     }
-  },
-  "image": "heroku/ruby",
-  "addons": [
-    "openredis",
-    {
       "plan": "heroku-postgresql",
       "options": {
         "version": "9.5"
