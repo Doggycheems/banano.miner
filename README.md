@@ -1,4 +1,6 @@
 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/doggycheems/banano.miner)
+
 ### `Intro`
 Easyer way to "mine" on a server with no gui (haven't seen any difference in hash speed compared to a normal browser)
 
